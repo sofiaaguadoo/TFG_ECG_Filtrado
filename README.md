@@ -16,4 +16,4 @@ Este repositorio contiene el notebook desarrollado para el Trabajo de Fin de Gra
 
 ## Autor
 
-Sofía Aguado
+Sofía Aguado Pérez
